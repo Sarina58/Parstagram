@@ -3,6 +3,7 @@
 This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
 
 Submitted By: Sarina Martinez
+
 Time spent: **5 hours and 30 minutes** hours spent in total
 
 ## User Stories
