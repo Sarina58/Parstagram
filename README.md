@@ -25,4 +25,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Sarina58/Parstagram/blob/main/(Parse-Part-1)ezgif.com-gif-maker%20(2).gif' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Sarina58/Parstagram/blob/main/(Parse)ezgif.com-gif-maker%20(2).gif' width='' alt='Video Walkthrough' />
